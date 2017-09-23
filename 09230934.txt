@@ -1,6 +1,2 @@
-sudo apt-get install libjpeg62 libwebkitgtk-1.0-0 git-core
-终端仍然打开后，导航到您下载的Aptana Studio，可能是“下载”文件夹，并运行以下命令：
+ http://download.eclipse.org/oomph/epp/oxygen/R/eclipse-inst-linux64.tar.gz
 
-对于64位
-
-sudo unzip Aptana_Studio_3_Setup_Linux_x86_64_3.6.1.zip -d /opt 
